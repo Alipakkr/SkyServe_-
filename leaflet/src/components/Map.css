@@ -1,0 +1,22 @@
+.map-container {
+  height: 600px;
+  width: 100%;
+  margin: auto;
+  z-index: 0;
+}
+.main-div {
+  display: flex;
+  gap: 30px;
+  width: 95%;
+  margin: auto;
+}
+.default-map {
+  flex: 8;
+}
+.image-div {
+  flex: 4;
+}
+.map-photo {
+  height: 300px;
+  width: 100%;
+}
